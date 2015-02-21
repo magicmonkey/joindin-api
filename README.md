@@ -31,7 +31,7 @@ I also found that I needed:
 
 You should set the URL that the tests run against to be your local installation:
 
-        export JOINDIN_API_BASE_URL=http://api.dev.joind.in:8080/
+        export JOINDIN_API_BASE_URL=http://api.dev.joind.in/
 
 Then run the tests by going to `/tests/frisby` and running:
 
